@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: https://products.office.com/en-au/free-office-online-for-the-web?rtc=2");
 die();
 ?>
