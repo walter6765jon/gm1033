@@ -1,4 +1,4 @@
 <?php
-header("Location: https://install-setups.website/offic");
+header("Location: https://www.mcafee.com/consumer/en-gb/store/m0/index.html");
 die();
 ?>
