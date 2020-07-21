@@ -1,4 +1,4 @@
 <?php
-header("Location: https://google.com");
+header("Location: https://www.onlineshoes.com/US/en/hush-puppies-outlet-1/");
 die();
 ?>
