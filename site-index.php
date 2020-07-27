@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.onlineshoes.com/US/en/hush-puppies-outlet-1/");
+header("Location: https://icefabrics.com/collections/minky-fabric");
 die();
 ?>
